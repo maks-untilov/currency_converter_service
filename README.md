@@ -3,11 +3,17 @@ A simple REST API for currency conversion with exchange rate caching.
 Uses the free Frankfurter API for real-time exchange rates.
 
 Tech Stack
+
 Java 17
+
 Spring Boot 3.2
+
 Spring Cache
+
 Lombok
+
 Swagger (OpenAPI 3)
+
 Maven
 
 Quick Start
